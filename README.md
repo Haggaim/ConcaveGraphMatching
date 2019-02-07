@@ -1,6 +1,6 @@
 # (Probably) Concave Graph Matching
 
-Code for the Neurips 2018 paper ["(Probably) Concave Graph Matching"] (https://papers.nips.cc/paper/7323-probably-concave-graph-matching.pdf) 
+Code for the Neurips 2018 paper 
 -----------------
 In this paper we address the graph matching problem. Following the recent works of \cite{zaslavskiy2009path,Vestner2017} we analyze and generalize the idea of concave relaxations. We introduce the concepts of conditionally concave and probably conditionally concave energies on polytopes and show that they encapsulate many instances of the graph matching problem, including matching Euclidean graphs and graphs on surfaces. We further prove that local minima of probably conditionally concave energies on general matching polytopes (e.g., doubly stochastic) are with high probability extreme points of the matching polytope (e.g., permutations).
 -----------------
