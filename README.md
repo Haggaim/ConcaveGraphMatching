@@ -7,8 +7,7 @@ In this paper we address the graph matching problem. Following the recent works 
 
 
 ## Code 
-This code implements graph matching with the Frank-Wolfe algorithm, as described in the paper. The examples match shape from the SHREC07 dataset.
-Run matchShapes.m or matchShapesOneSided.m for optimizing over permutations or one-sided permutations repectively. 
+This code implements graph matching with the Frank-Wolfe algorithm, as described in the paper. The examples match two shapes from the SHREC07 dataset. Run matchShapes.m or matchShapesOneSided.m for optimizing over permutations or one-sided permutations repectively. 
 
 ## Disclaimer:
 The code is provided as-is for academic use only and without any guarantees. Please contact the authors to report any bugs.
